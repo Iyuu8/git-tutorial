@@ -107,3 +107,4 @@ let chart = new Chart(ctx,{
 },1000)*/
 
 console.log('some changes');
+console.log('more changes');
