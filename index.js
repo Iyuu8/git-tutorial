@@ -105,3 +105,5 @@ let chart = new Chart(ctx,{
     chart.data.datasets[0].data=data;
     chart.update();
 },1000)*/
+
+console.log('some changes');
